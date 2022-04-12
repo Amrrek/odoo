@@ -5,6 +5,8 @@
 
 Odoo
 ----
+بسم الله الرحمن الرحيم، خير ما نبدأ به![image](https://user-images.githubusercontent.com/103533436/163040114-b7639a0c-05c3-4479-b4a4-65ca5937b90f.png)
+
 
 Odoo is a suite of web based open source business apps.
 
